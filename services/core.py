@@ -1,5 +1,5 @@
 import httpx
-from pydantic import BaseModel
+
 
 class ChatService:
     def chat(self, message: str):
