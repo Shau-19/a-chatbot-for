@@ -7,4 +7,3 @@ class ChatService:
 
 
 
-            return response.json()
