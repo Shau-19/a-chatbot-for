@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter
 from services.core import ChatService
 
 router = APIRouter()
